@@ -57,6 +57,8 @@ There are three fields per note entry, out of which the last two should remain u
 
 ## Notes on specific texts
 
+- When translating items that refer to `mush` (i.e. `Antiseptic mush`, `Mushlight`, `Clotting mush`, etc.), translate it as "a soft, thick mass or mixture". Do not translate it as "fungi" unless it is explicitly described as a fungi, or is visually made out of fungi in-game.
+
 ### Main
 
 | Line | Text | Notes |
@@ -97,7 +99,7 @@ Texts related to the end screen stats (like `endscreenstatus`, `endscreendecease
 | 1740 | `damagereduction` | The damage reduction percentage is appended to the right. |
 | 1741 | `bodyinsulation` | The body insulation percentage is appended to the right. |
 | 1782 | `watchbleedout` | The estimated time before full bleedout is appended to the right. |
-| 1783 | `watchinfected` | The full names of the lumbs that are infected are appended to the right. |
+| 1783 | `watchinfected` | The full names of the limbs that are infected are appended to the right. |
 | 1784 | `watchlimbheal` | The full name of the limb is appended to the left, and the time for it to heal its fracture or dislocation is appended to the right. | 
 | 1785 | `watchweight` | `watchweightlost` or `watchweightgained`, then the weight gained or lost is appended to the right separated by ": ". If translating is inconvenient, you may choose to keep `watchweightlost` empty and to add the text directly to `watchweightlost` or `watchweightgained`. |
 | 1788 | `watchruntime` | The current run time is appended to the right. |
