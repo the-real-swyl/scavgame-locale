@@ -1,8 +1,8 @@
 {
   "name": "Polski",
   "description": "Nieoficjalne tłumaczenie polskie przeznaczone dla wersji 7.0.",
+  "version": "7.7.9",
   "main": {
-    "version": "7.7.9",
     "bandage": "Opatrunek",
     "bandagedsc": "Zwitek opatrunku z bandażem, służy do spowalniania krwawienia, stabilizacji złamań oraz wspomagania gojenia się skóry. Nie wpływa na zdrowie mięśni.",
     "rippeddressing": "Oddarty opatrunek",
@@ -685,7 +685,7 @@
     "glowplant": "Świetlina",
     "glowplantdsc": "Zielona roślina o właściwościach bioluminescencyjnych. Wygląda na to, że tutejsze środowisko nie zaszkodziło tej roślinie.",
     "mushlight": "Mushlight <TMP>",
-    "mushlightdsc": "Some kind of bioluminescent plant <TMP>.",
+    "mushlightdsc": "Some kind of bioluminescent plant.",
     "jumppad": "Stara maszyna",
     "jumppaddsc": "Wystaje z niej płytka naciskowa.",
     "landmine": "Mina",
@@ -722,23 +722,23 @@
     "corecrystaldsc": "Bioluminescencyjny kryształ. Na drugi rzut oka, coś jest w środku...",
     "crystalenemy": "Manifestacja",
     "crystalenemydsc": "Istota o złowrogiej aurze, dla stworzeń takich jak ty jego istnienie wykracza poza wszelkie zrozumienie.",
-    "crystalirradiated": "radioactive <TMP>",
-    "crystalfragile": "fragile <TMP>",
-    "crystalgravity": "gravitational distortion <TMP>",
-    "crystalelectric": "electric <TMP>",
-    "crystalburning": "burning <TMP>",
-    "crystaltemperature": "thermal <TMP>",
-    "crystalseptic": "septic <TMP>",
-    "crystalunstable": "unstable <TMP>",
-    "crystalmimic": "animated <TMP>",
-    "crystalteleport": "positional instability <TMP>",
-    "crystaldripping": "melting <TMP>",
-    "crystalkinetic": "kinetic <TMP>",
-    "crystalemp": "electromagnetic <TMP>",
-    "crystalblinding": "bright <TMP>",
-    "crystalmetamorphic": "metamorphic <TMP>",
-    "crystalhealing": "healing <TMP>",
-    "crystalshy": "mimic <TMP>",
+    "crystalirradiated": "radioactive",
+    "crystalfragile": "fragile",
+    "crystalgravity": "gravitational distortion",
+    "crystalelectric": "electric",
+    "crystalburning": "burning",
+    "crystaltemperature": "thermal",
+    "crystalseptic": "septic",
+    "crystalunstable": "unstable",
+    "crystalmimic": "animated",
+    "crystalteleport": "positional instability",
+    "crystaldripping": "melting",
+    "crystalkinetic": "kinetic",
+    "crystalemp": "electromagnetic",
+    "crystalblinding": "bright",
+    "crystalmetamorphic": "metamorphic",
+    "crystalhealing": "healing",
+    "crystalshy": "mimic",
     "sandrose": "Piaskowa róża",
     "sandrosedsc": "Piękna roślina, na której szczycie rośnie parę dużych i długich bulw.",
     "scrapeater": "Złomek",
@@ -1187,8 +1187,8 @@
     "layertitle7": "Grzybowe rozlewisko",
     "layertitle8": "Krystaliczne kotliny",
     "layertitle9": "Gejzery geotermalne",
-    "layertitle10": "GDZIE MUSIMY DOSIĘGNĄĆ <TMP>",
-    "layertitle11": "SZKARŁATNY WSCHÓD <TMP>",
+    "layertitle10": "GDZIE MUSIMY DOSIĘGNĄĆ ",
+    "layertitle11": "SZKARŁATNY WSCHÓD",
     "layertitle12": "Ziemia\nLaboratorium, kto wie gdzie...",
     "layermodifier0": "Zamglone",
     "layermodifier1": "Gorące",
@@ -4029,7 +4029,7 @@
         "...A-ach... No... Dobra... D-dowidzenia, zatem..."
       ],
       "endlessloop0": [
-        "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened... <TMP>"
+        "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
       ],
       "endlessloop1": [
         "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..? <TMP>"
@@ -4038,10 +4038,10 @@
         "<spoiler>"
       ],
       "endlessloop3": [
-        "Well! I'm not getting out of here, am I... I think I'm getting used to this. <TMP>"
+        "Well! I'm not getting out of here, am I... I think I'm getting used to this."
       ],
       "endlessloopdefault": [
-        "Oh, round and round we go... <TMP>"
+        "Oh, round and round we go..."
       ],
       "vomitresponse": [
         "Mmm... Wszystko w porządku..?"
